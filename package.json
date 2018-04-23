@@ -14,6 +14,10 @@
   "license": "MIT",
   "devDependencies": {
     "bs-jest": "^0.3.2",
-    "bs-platform": "^3.0.0"
+    "bs-platform": "^3.0.0",
+    "reason-cli": "3.1.0-linux"
+  },
+  "dependencies": {
+    "bs-batteries": "^0.0.14"
   }
 }

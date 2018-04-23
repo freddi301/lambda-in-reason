@@ -406,6 +406,10 @@ browser-resolve@^1.11.2:
   dependencies:
     resolve "1.1.7"
 
+bs-batteries@^0.0.14:
+  version "0.0.14"
+  resolved "https://registry.yarnpkg.com/bs-batteries/-/bs-batteries-0.0.14.tgz#51536a489615087c05774525c38ab56b4d45df4c"
+
 bs-jest@^0.3.2:
   version "0.3.2"
   resolved "https://registry.yarnpkg.com/bs-jest/-/bs-jest-0.3.2.tgz#b13cef06a965988a404fd74cac351f3b5bce53b1"
@@ -2451,6 +2455,10 @@ realpath-native@^1.0.0:
   resolved "https://registry.yarnpkg.com/realpath-native/-/realpath-native-1.0.0.tgz#7885721a83b43bd5327609f0ddecb2482305fdf0"
   dependencies:
     util.promisify "^1.0.0"
+
+reason-cli@3.1.0-linux:
+  version "3.1.0-linux"
+  resolved "https://registry.yarnpkg.com/reason-cli/-/reason-cli-3.1.0-linux.tgz#1b147bde18b854ac25fa7f6c8f16252b392d8ea5"
 
 regenerator-runtime@^0.11.0:
   version "0.11.1"

@@ -1,3 +1,16 @@
 {
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "reason.codelens.enabled": true,
+  "reason.codelens.unicode": true,
+  "reason.format.width": 120,
+  "reason.path.ocamlmerlin": "node_modules/.bin/ocamlmerlin",
+  "reason.path.bsb": "node_modules/.bin/bsb",
+  "reason.path.env": "node_modules/.bin/node_modules/.bin/env",
+  "reason.path.esy": "esy",
+  "reason.path.ocamlfind": "node_modules/.bin/ocamlfind",
+  "reason.path.opam": "node_modules/.bin/opam",
+  "reason.path.rebuild": "node_modules/.bin/rebuild",
+  "reason.path.refmt": "node_modules/.bin/refmt",
+  "reason.path.refmterr": "node_modules/.bin/refmterr",
+  "reason.path.rtop": "node_modules/.bin/rtop"
 }

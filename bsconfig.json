@@ -15,8 +15,7 @@
     "in-source": true
   },
   "suffix": ".bs.js",
-  "bs-dependencies": ["bs-jest"],
-  "bs-dev-dependencies": ["bs-jest"],
+  "bs-dependencies": ["bs-jest", "bs-batteries"],
   "warnings": {
     "error": "+101"
   },
