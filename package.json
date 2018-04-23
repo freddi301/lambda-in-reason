@@ -1,0 +1,19 @@
+{
+  "name": "lambda-in-reason",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "bsb -make-world",
+    "start": "bsb -make-world -w",
+    "clean": "bsb -clean-world",
+    "test": "npm run build && jest"
+  },
+  "keywords": [
+    "BuckleScript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "bs-jest": "^0.3.2",
+    "bs-platform": "^3.0.0"
+  }
+}
